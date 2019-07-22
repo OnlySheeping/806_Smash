@@ -1,0 +1,14 @@
+{
+    "name": "julia/806_smash",
+    "require": {
+        "webonyx/graphql-php": "^0.13.1",
+        "monolog/monolog": "^1.24",
+        "guzzlehttp/guzzle": "~6.0"
+    },
+    "authors": [
+        {
+            "name": "Julian Jacquez",
+            "email": "jacquez.julian10@gmail.com"
+        }
+    ]
+}
